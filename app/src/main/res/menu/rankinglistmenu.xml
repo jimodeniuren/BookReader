@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/resoubang"
+        android:icon="@drawable/hotrank"
+        android:title="热搜榜"/>
+    <item
+        android:id="@+id/changxiaobang"
+        android:icon="@drawable/newrank"
+        android:title="畅销榜"/>
+    <item
+        android:id="@+id/vipbang"
+        android:icon="@drawable/hotrank"
+        android:title="VIP榜"/>
+    <item
+        android:id="@+id/xinshubang"
+        android:icon="@drawable/newrank"
+        android:title="新书榜"/>
+    <item
+        android:id="@+id/renqibang"
+        android:icon="@drawable/newrank"
+        android:title="人气榜"/>
+    <item
+        android:id="@+id/rexiaobang"
+        android:icon="@drawable/hotrank"
+        android:title="热销榜"/>
+    <item
+        android:id="@+id/wanjiebang"
+        android:icon="@drawable/newrank"
+        android:title="完结榜"/>
+    <item
+        android:id="@+id/zhuishuzuirebangtop100"
+        android:icon="@drawable/newrank"
+        android:title="追书最热榜 Top100"/>
+    <item
+        android:id="@+id/haopingbang"
+        android:icon="@drawable/hotrank"
+        android:title="好评榜"/>
+    <item
+        android:id="@+id/qianlibang"
+        android:icon="@drawable/newrank"
+        android:title="潜力榜"/>
+</menu>

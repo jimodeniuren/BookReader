@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/zonghetaolunqu"
+            android:icon="@drawable/comments"
+            android:title="综合讨论区"/>
+        <item
+            android:id="@+id/shuhuanghuzhuqu"
+            android:icon="@drawable/comments"
+            android:title="书荒互助区"/>
+</menu>
